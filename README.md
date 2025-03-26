@@ -9,7 +9,8 @@
             alt="https://linkedin.com/in/sergey-tsyganov-434868184/" height="30" width="40" />
     </a>
 </p>
-![gsgerman's](https://github-readme-stats.vercel.app/api?username=ggerman&count_private=true&show_icons=true&theme=dark)
+
+![gsgerman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ggerman&count_private=true&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggerman&layout=compact&langs_count=10&theme=dark)
 
