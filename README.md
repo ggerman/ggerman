@@ -2,9 +2,7 @@
 
 ## Visit My Website
 
-You can check out my website for more information and updates:
-
-[Ruby Stack News](https://rubystacknews.com/)
+You can check out my website for more information and updates: [Ruby Stack News](https://rubystacknews.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
