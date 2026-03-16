@@ -1,4 +1,4 @@
-# Germán Silva
+# Germán Alberto Giménez Silva
 
 **Senior Full-Stack Engineer | Open Source Creator | 20+ Years Remote**
 
