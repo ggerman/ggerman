@@ -1,6 +1,6 @@
 # Germán Alberto Giménez Silva
 
-**Senior Full-Stack Engineer | Open Source Creator | 20+ Years Remote**
+**Senior Full-Stack Engineer | Open Source Creator | Ruby/C Systems | 20+ Years Remote**
 
 Built **ruby-libgd** and **libgd-gis** — production gems with 6K+ downloads. Full-stack: Ruby/Rails, PostgreSQL, Docker, Google Cloud. Systems engineer. 🟢 Open to work.
 
