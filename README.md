@@ -16,6 +16,18 @@ Native GIS & map rendering for Ruby. 3,738+ downloads | MIT licensed
 
 ---
 
+## 📈 Live Library Metrics
+
+### ruby-libgd
+![ruby-libgd Clones](https://ggerman.github.io/github-metrics-dashboard/ruby-libgd_clones_trend.png)
+
+### libgd-gis
+![libgd-gis Views](https://ggerman.github.io/github-metrics-dashboard/libgd-gis_views_trend.png)
+
+*Updated daily via GitHub Actions*
+
+---
+
 ## 💼 What I Do
 
 Full-stack products • Platform modernization • Systems/DevOps • Compliance/Security • Electoral systems
@@ -31,18 +43,6 @@ Full-stack products • Platform modernization • Systems/DevOps • Compliance
 **Infrastructure:** Debian | Apache | Nginx | DNS | Firewalls | AWS | DigitalOcean
 
 **Also:** C | PHP/Laravel | Drupal | WordPress | Magento
-
----
-
-## 📈 Live Library Metrics
-
-### ruby-libgd
-![ruby-libgd Clones](https://ggerman.github.io/github-metrics-dashboard/ruby-libgd_clones_trend.png)
-
-### libgd-gis
-![libgd-gis Views](https://ggerman.github.io/github-metrics-dashboard/libgd-gis_views_trend.png)
-
-*Updated daily via GitHub Actions*
 
 ---
 
