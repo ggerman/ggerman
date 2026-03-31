@@ -34,6 +34,20 @@ Full-stack products • Platform modernization • Systems/DevOps • Compliance
 
 ---
 
+## 📈 Real-time Metrics
+
+These charts are generated daily by [github-metrics-dashboard](https://github.com/ggerman/github-metrics-dashboard) using `ruby-libgd`.
+
+### ruby-libgd
+![ruby-libgd Views](https://raw.githubusercontent.com/ggerman/metrics-vault/main/charts/ruby-libgd_views_trend.png)
+
+### libgd-gis
+![libgd-gis Views](https://raw.githubusercontent.com/ggerman/metrics-vault/main/charts/libgd-gis_views_trend.png)
+
+*Updated daily via GitHub Actions*
+
+---
+
 ## 📫 Connect
 
 Email: ggerman@gmail.com | Phone: +54 343 419-2620 | [LinkedIn](https://www.linkedin.com/in/germ%C3%A1n-silva-56a12622/) | [Website](https://rubystacknews.com/)
