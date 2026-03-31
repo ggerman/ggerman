@@ -18,11 +18,18 @@ Native GIS & map rendering for Ruby. 3,738+ downloads | MIT licensed
 
 ## 📈 Live Library Metrics
 
-### ruby-libgd
-![ruby-libgd Clones](https://ggerman.github.io/github-metrics-dashboard/ruby-libgd_clones_trend.png)
-
-### libgd-gis
-![libgd-gis Views](https://ggerman.github.io/github-metrics-dashboard/libgd-gis_clones_trend.png)
+<table>
+  <tr>
+    <td align="center">
+      <strong>ruby-libgd</strong><br>
+      <img src="https://ggerman.github.io/github-metrics-dashboard/ruby-libgd_clones_trend.png" width="350" style="border-radius: 12px;">
+    </td>
+    <td align="center">
+      <strong>libgd-gis</strong><br>
+      <img src="https://ggerman.github.io/github-metrics-dashboard/libgd-gis_clones_trend.png" width="350" style="border-radius: 12px;">
+    </td>
+  </tr>
+</table>
 
 *Updated daily via GitHub Actions*
 
