@@ -34,15 +34,13 @@ Full-stack products • Platform modernization • Systems/DevOps • Compliance
 
 ---
 
-## 📈 Real-time Metrics
-
-These charts are generated daily by [github-metrics-dashboard](https://github.com/ggerman/github-metrics-dashboard) using `ruby-libgd`.
+## 📈 Live Library Metrics
 
 ### ruby-libgd
-![ruby-libgd Views](https://raw.githubusercontent.com/ggerman/metrics-vault/main/charts/ruby-libgd_views_trend.png)
+![ruby-libgd Clones](https://ggerman.github.io/github-metrics-dashboard/ruby-libgd_clones_trend.png)
 
 ### libgd-gis
-![libgd-gis Views](https://raw.githubusercontent.com/ggerman/metrics-vault/main/charts/libgd-gis_views_trend.png)
+![libgd-gis Views](https://ggerman.github.io/github-metrics-dashboard/libgd-gis_views_trend.png)
 
 *Updated daily via GitHub Actions*
 
