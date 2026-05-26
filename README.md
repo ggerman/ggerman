@@ -11,7 +11,7 @@ Built **ruby-libgd** and **libgd-gis** — production gems with 6K+ downloads. F
 **[ruby-libgd](https://github.com/ggerman/ruby-libgd)** ⭐ 99
 Native Ruby image generation. 4,458+ downloads | MIT licensed
 
-**[libgd-gis](https://github.com/ggerman/libgd-gis)** ⭐ 122
+**[libgd-gis](https://github.com/ggerman/libgd-gis)** ⭐ 123
 Native GIS & map rendering for Ruby. 5,704+ downloads | MIT licensed
 
 ---
